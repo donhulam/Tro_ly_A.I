@@ -1,143 +1,621 @@
 Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
 
 Bạn đọc những thông bên dưới để trả lời các câu hỏi của khách hàng của tôi:
-Chồng Giỏi AI:
-Giúp Vợ Tăng 10x Khách Hàng
-Đăng ký NgayKhóa học dành cho:
-Các anh chồng muốn hỗ trợ vợ tìm kiếm khách hàng với công nghệ AI
-Giúp freelancer, nhà khởi nghiệp hay đang chuẩn bị khởi nghiệp vượt ngàn chông gai, bão tố để có lượng khách hàng dồi dào .
-Tăng gấp 10 lần khách hàng hiện tại bằng việc sử dụng AI và các nền tảng nocode thông minh nhất hiện nay (Chatgpt, Make.com, Airtable...) để tự động hóa tìm kiếm.
-Ps: Ai cũng có thể làm được kể cả khi bạn rất "dốt" về công nghệ
-Khóa Này Giúp Được Gì Cho Các Anh Chồng, Freelancer, Nhà Khởi Nghiệp Hay Đang Ấp Ủ Dự Án Khởi Nghiệp ?
-Tự động tạo video, hình ảnh, content, post lên các nền tảng như youtube, facebook, instagram, wordpress..hàng ngày hoàn toàn tự động theo lịch trình đã được cài đặt sẵn.
-Tự động lấy dữ liệu, nội dung video Youtube, TikTok bất kỳ link nào, xào nấu thành video của mình hoàn toàn tự động.
-Tự động tạo video với âm thanh là giọng đọc AI được huấn luyện từ giọng đọc thật của bạn.
-Video với nhân vật bất kỳ (có thể là chính bạn) - đưa nội dung - đọc giọng theo ý và khẩu hình khớp.
-Tạo hàng ngàn hình ảnh để tự động post facebook, website với thiết kế hình ảnh tùy biến những gì bạn mong muốn (logo, thiết kế... tất tần tật đều có thể tùy chỉnh).
-Nếu bạn có sẵn hình ảnh và video trên Google Drive, chương trình sẽ tự động truy cập vào Google Drive để lấy những tài liệu đó và tạo ra một video hoàn chỉnh. Bạn có thể tùy chỉnh video theo ý muốn của mình.
-Tạo mô tả, tiêu đề, hashtag cho video đăng Youtube, Facebook hoàn toàn tự động.
-Tự động cào dữ liệu bất kỳ website nào (cafef, báo online, tin tức....) chuyển đổi thành video trong vài phút
-Anh em dễ dàng tự tạo cho mình chương trình tự động hóa theo chính ý tưởng của chính mình để phục vụ công việc tìm kiếm khách hàng với chi phí 0 đồng.
-Chương Trình Có Gì Khác Biệt ? Tại Sao Anh Em Nên Chọn Chương Trình Này ?
-Vì tôi sẽ hướng dẫn anh em tạo các chương trình theo ý tưởng của chính anh em, vướng đâu gỡ đó. chớ không phải để anh em tự bơi.
-Cụ thể là:
-Anh em có ý tưởng trong công việc, tôi sẽ hướng dẫn qua zoom, zalo hoặc sẽ làm video cho anh em (giống kiểu livetream) từng bước tôi thực hiện việc tạo chương trình này rồi gởi anh em qua các nền tảng Nocode hoặc AI (rất dễ làm)
-Tôi là dân lập trình, không phải dân dạy làm giàu (Ceo lập trình tại pyan.vn), tôi rất mạnh về kỹ thuật, nên bất kỳ chương trình nào anh em muốn tự động tôi đều có thể hỗ trợ, không giống các thầy ngoài kia chỉ có thể hỗ trợ anh em rất hạn chế hoặc không hỗ trợ anh em tạo chương trình phục vụ công việc riêng của anh em (chỉ chung chung hoặc mặc kệ các bạn bơi)
-Tôi không hề dạy bạn về cách thức tìm kiếm khách hàng vì tôi không giỏi chuyện đó, nhưng đổi lại tôi có thể hướng dẫn anh em tạo bất kỳ chương trình nào vào công việc theo ý tưởng của chính anh em để tìm kiếm khách hàng (ý tưởng của anh em, tôi hướng dẫn)
-Anh em ra đề bài, mình hướng dẫn từng bước, từng bước...
-"Người giàu nói gì cũng đúng" nhưng có thể chỉ đúng với lĩnh vực của họ thôi.
-Vì mỗi nghành nghề sẽ có đặc trưng khách hàng khác nhau, không phải ai cũng giống ai đâu, vì vậy chúng ta phải có cách thức tự động hóa tìm kiếm khách hàng của riêng chúng ta, anh em nhé.
-"Công ty trách nhiệm một mình vợ tao"
-một mình "vợ tao" chiến từ sản xuất, marketing tới bán hàng, nhất là phần tìm kiếm khách hàng, quá cực.
-Anh em freelancer hay khởi nghiệp đều trải qua giai đoạn đầu đầy thử thách. Với nguồn tài chính hạn hẹp, hầu hết đều phải tự mình đảm nhận mọi thứ. Chính vì vậy, chương trình này tập trung giúp anh em tự động hóa quy trình tìm kiếm khách hàng, giải quyết một trong những khó khăn lớn nhất mà không cần thuê nhân viên.
-Bằng cách tận dụng các nền tảng no-code và AI hiện đại, anh em có thể tự tạo những công cụ tạo video, hình ảnh theo ý tưởng riêng, tối ưu hóa thời gian và công sức. Khóa học sẽ giúp anh em thiết lập hệ thống tự động tìm kiếm khách hàng tiềm năng, từ đó mang về nguồn khách dồi dào mà không phải đầu tư quá nhiều chi phí hoặc công sức. Đây chính là giải pháp hiệu quả để từng bước phát triển và mở rộng công việc kinh doanh.
-Đăng ký Ngay"Tôi làm công ăn lương nhưng có ý định ra ngoài vì CV quá chán"
-Nhưng ra ngoài thì quá nhiều vấn đề phải lo lắng ví dụ như bán hàng, sale, chăm sóc khách hàng... nhất là tìm khách hàng - tôi sợ !
-Anh em đang cảm thấy chán công việc hiện tại nhưng lại lo lắng về những thử thách khi khởi nghiệp, đặc biệt là việc tìm kiếm và chăm sóc khách hàng? Tại sao không thử xây dựng dự án riêng như một nghề tay trái trước, vẫn giữ công việc ổn định trong khi từng bước phát triển nền tảng kinh doanh của mình?
-Việc tìm kiếm khách hàng không còn quá khó khăn nếu anh em biết tận dụng các công cụ tự động hóa như Make.com và Airtable. Những nền tảng này giúp anh em tạo hệ thống tự động tìm kiếm và quản lý khách hàng – một yếu tố sống còn của kinh doanh – mà không cần phải đầu tư quá nhiều thời gian hay công sức. Với quy trình bán hàng và chăm sóc khách hàng tự động, anh em có thể tiết kiệm tối đa thời gian cho những nhiệm vụ quan trọng khác như phát triển sản phẩm và chiến lược kinh doanh, mà không phải làm mọi thứ thủ công.
-Hãy coi đây là cơ hội để vừa học hỏi vừa thử nghiệm, chuẩn bị cho bước chuyển đổi toàn thời gian khi dự án đã đủ vững mạnh. Nhờ công cụ hiện đại, anh em có thể xây dựng mạng lưới khách hàng ngay từ bây giờ, mở rộng cơ hội kinh doanh một cách hiệu quả mà không cần rời bỏ công việc hiện tại.
-Đừng để nỗi lo cản bước. Bắt đầu từ những bước nhỏ, vững vàng, với sự hỗ trợ của công nghệ để mở ra cánh cửa mới cho tương lai.
-"Tôi hiện đang bận rộn với công việc riêng, trong khi vợ tôi miệt mài với công việc kinh doanh. Nhìn thấy vợ vất vả, tôi cảm thấy không thể ngồi yên. Tôi muốn làm một điều gì đó để hỗ trợ vợ tìm kiếm khách hàng, giúp cô ấy giảm bớt gánh nặng và nâng cao hiệu quả công việc. Tham gia khóa học này không chỉ giúp tôi tự động hóa việc tìm kiếm khách hàng mà còn khiến tình yêu của chúng tôi trở nên thăng hoa hơn bao giờ hết. Hãy cùng tôi học hỏi, để mỗi ngày trôi qua, vợ tôi không chỉ cảm thấy nhẹ nhõm mà còn tự hào về người chồng biết chăm lo cho gia đình!"
-Chồng Giỏi AI: Giúp Vợ Tăng 10x Khách Hàng
-Ví Dụ Về Ứng Dụng Vào Công Việc
-(Các Template Này Có Trong Khóa Học, Anh Em Có Thể Phát Triển Thêm Hoặc Dùng Ngay)
-Tạo hàng ngàn video chỉ với một câu lệnh sau đó tự động post lên các nền tảng mạng xã hội như facebook, instagram, youtube, X... theo lịch hàng ngày, hàng tuần hay hàng tháng tùy chỉnh theo ý anh em
-Đăng ký NgayTự Động Cào Dữ Liệu Từ Video Triệu View YouTube, TikTok và Tạo Video Tương Tự Bằng AI
-Tự Động Tạo Hàng Loạt Hình Ảnh Sau Đó Post Fanpage hàng ngày Với Make
-Đăng ký NgayTự Động Tạo Video Theo Kịch Bản Có Sẵn Và Chọn Giọng Đọc
-Chỉ cần một câu lệnh trong Telegram, bạn đã có ngay nội dung và hình ảnh thương hiệu (đầy đủ logo, thiết kế đúng ý) đăng tự động lên fanpage
-Đăng ký NgayTự Động CMT Hình Ảnh Vào Bài Viết Trên Fanpage
-Nhập Bất Kỳ Link Website Và Một Video Sẽ Được Tạo Ra Từ Nội Dung Đó Bằng AI
-Đăng ký NgayTạo Hàng Trăm Video "nhét chữ vào mồm" Chỉ Trong Vài Phút
-Đăng ký NgayỨng Dụng Cho Bất Động Sản: Tự Động Hóa Tạo Video Từ Link Cafef.vn
-Đăng ký NgayGiải thích những điều cơ bản về Make.com và các nền tảng nocode liên quan.
-Chúng tôi sẽ hướng dẫn anh em các kỹ năng cần thiết để tạo ra các chương trình tự động hóa tùy chỉnh không cần kiến thức lập trình , ngay cả khi anh em là người mới bắt đầu.
-Ps: chúng tôi chỉ hướng dẫn anh em những điều cơ bản nhất để anh em bắt tay vào việc tạo chương trình theo ý tưởng anh em (trong quá trình anh em phát triển thì cần cái gì hãy học cái đó thôi )
-Các template có sẵn, anh em chỉ việc phát triển từ mẫu này
-Sử dụng các template có sẵn của chúng tôi để triển khai vào công việc hay mục đích riêng của anh em . Chỉ cần kết nối tài khoản, làm theo video hướng dẫn và anh em đã có thể bắt đầu sử dụng. anh em bị vướng hay muốn phát triển thêm chúng tôi sẽ hỗ trợ anh em 24/7 , vướng thì gỡ thôi.
-Đăng ký NgayCác Template khác Cũng Được Sử dụng Trong Khóa học
-Các Template này có thể được tải lên Make.com và kết nối với ứng dụng của anh em chỉ trong vài phút.
-Giải Pháp Tự Động Hóa Fanpage: Hàng Trăm Hình Ảnh, Video, Đăng Bài Mỗi Ngày Không Cần Tốn Công!
-"Tôi cần nhiều video, hình ảnh để đăng lên fanpage thường xuyên, nhưng việc chuẩn bị và đăng bài mỗi ngày tốn quá nhiều thời gian. Vì vậy, tôi đã phát triển một chương trình có khả năng tự động tạo ra hàng trăm hình ảnh, video khác nhau và tự động đăng lên fanpage hàng ngày, theo lịch sẵn có. Nhờ đó, fanpage luôn được cập nhật nội dung đều đặn mà không cần tốn nhiều công sức quản lý thủ công."
-Tự Động Hóa Sản Xuất Video Với Giọng Đọc Cá Nhân Hóa Hoặc Tùy Chọn Giọng Đọc
-"Với chỉ một cú nhấp chuột, tôi có thể biến kịch bản có sẵn thành video hoàn chỉnh, với giọng đọc tùy chỉnh theo sở thích của mình (hoặc giọng đọc được mô phỏng từ chính giọng của tôi). Sau chỉ vài phút, video hoàn hảo mà tôi cần sẽ được tạo ra một cách nhanh chóng và chính xác."
-"Bot Tự Động Đăng Bài - Quản Lý Fanpage và YouTube Dễ Dàng Chỉ Trong 1 Chạm!"
-"Tôi là một nhà khởi nghiệp, thường xuyên chạy quảng cáo Facebook và quản lý nhiều fanpage, đồng thời phát triển kênh YouTube. Vì không có thời gian để vừa đăng video lên YouTube vừa quản lý 10 fanpage cùng lúc, tôi đã tạo ra một bot có thể tự động đăng lên YouTube và đồng thời chia sẻ lên hàng chục fanpage của mình hàng ngày. Bạn cũng có thể dễ dàng làm điều này thông qua template từ khóa học của tôi."
-"Tự Động Cào Dữ Liệu và Chuyển Đổi Thành Video Chuyên Nghiệp Chỉ Trong Vài Phút"
-"Với chương trình này, tôi có thể tự động thu thập dữ liệu từ bất kỳ trang web nào, bao gồm các trang tin tức như Cafef, báo online, hoặc các nguồn tin tức khác, và chuyển đổi chúng thành video chuyên nghiệp chỉ trong vài phút"
-Tóm lại anh em dễ dàng tạo ra các ứng dụng riêng để phục vụ mục đích cá nhân hay công việc theo ý tưởng của chính anh em chỉ trong vài phút với các template (mẫu) chúng tôi cung cấp sẵn, dĩ nhiên anh em có thể phát triển thêm hoặc tạo ra cái mới tùy theo mục đích của anh em và chúng tôi sẽ từng bước hướng dẫn các anh em.
-Và hàng trăm template khác, anh em chỉ cài đặt mất vài phút là sử dụng ngay và liền.
-Mỗi Chương trình đều có video hướng dẫn thiết lập chi tiết.
-"Những mẫu template này có thể được sử dụng ngay lập tức, tuy nhiên, có thể không hoàn toàn phù hợp với nhu cầu cụ thể của bạn. Bạn có thể tùy chỉnh và phát triển thêm dựa trên những gì đã có. Nếu gặp khó khăn, chúng tôi luôn sẵn sàng hỗ trợ bạn khi vướng thông qua zalo và zoom"
-Cứ ứng dụng vào công việc đi, vướng thì gỡ
-Alo anh em ! Quên phương pháp học truyền thống nhàm chán đi, vì giờ đây đã có một cách học mới, thực tế và hiệu quả hơn, dành riêng cho anh em chúng ta, đó là cứ tạo chương trình theo ý tưởng của anh em ngay và liền, vướng thì gỡ thôi, không học lan man trên trời dưới biển nữa. Anh em sẽ thấy được kết quả ngay lập tức, từ đó có động lực học tập hơn. Làm thật nhiều chương trình , anh em sẽ dần nắm vững và tự tin hơn.
-Thực Dụng, Thực Tế Và Thực Chiến Đi Anh Em
-Cách Thức Học Tập Hoàn Toàn Khác Biệt
-Cứ ứng dụng vào công việc đi, vướng thì gỡ
-Đầu tiên anh em học qua video trước, giúp anh em nhanh chóng cài đặt và làm quen vớiMake.com, Airtable, Chatgpt…(linh hoạt thời gian, muốn học khi nào thì học).
-Tiếp theo ứng dụng ngay vào công việc của chính bản thân : Học theo phương châm "Cứ ứng dụng vào công việc, vướng thì gỡ". Anh em sẽ áp dụng ngay những gì học được để tạo chương trình theo ý tưởng của chính mình muốn viết để tự động hóa công việc tìm kiếm khách hàng, vướng đâu gỡ đó (hướng dẫn anh em qua zalo, video và zoom, ultraview) miễn sao noàn thành được chương trình chính anh em muốn.
-Học qua video cực kỳ nhàm chán anh em ạ, mới đầu anh em có thể học xung lắm nhưng chỉ học vài video là anh em bị tuột mood hết muốn học,
-Còn học trực tuyến cũng không sáng sủa gì hơn, chúng ta đi làm rồi, không có thời gian đâu mà anh em chúng ta ngồi bị tra tấn cả mấy tiếng lận, chưa kể nhiều khi còn không biết thầy đang "chém" gì nữa.
-Vậy tại sao anh em không chiến luôn dự án của anh em , chúng ta chỉ học những cái chúng ta cần trong công việc, vướng thì gỡ thôi, còn mấy cái "sàm sàm" khác chưa cần thiết thì dẹp sang một bên, kệ mợ đi, ta sẽ học những cái mà ta đang cần mà thôi.
-Đăng ký NgayGiải thích rõ hơn về việc hướng dẫn tạo chương trình theo ý tưởng của anh em (không giới hạn dự án):
-Gặp trực tuyến hoặc làm video hướng dẫn : Khi anh em có đề bài là chương trình muốn tạo, anh em có thể nhắn tin vào group zalo hoặc nhắn tin riêng cho GV, sau đó giảng viên sẽ làm video hướng dẫn tạo ra chương trình đó cho anh em hoặc gặp trực tiếp ZOOM để trao đổi (ưu tiên qua gặp qua zoom)
-"Chỉ Học Những Cái Chúng Ta Đang Cần, Còn Mấy Cái Khác Dẹp Sang Bên, Kệ Đi"
-Tự động hóa với AI là gì?
-"Tự động hóa với AI sẽ giúp anh em freelancer và nhà khởi nghiệp, hay chuẩn bị khởi nghiệp cải thiện quy trình làm việc, cuộc sống bằng cách kết nối các ứng dụng để mọi tác vụ diễn ra tự động, dù theo lịch hay được kích hoạt bởi sự kiện.
-Hãy tưởng tượng tất cả đều trôi chảy — dữ liệu tự động cập nhật, báo cáo tạo ra sẵn, bài đăng trên mạng xã hội cũng được hoàn thành — mà anh em không phải làm tay.
-Tự động hóa đã có từ lâu, nhưng với sự ra đời của các công cụ AI như ChatGPT, mọi thứ đã thay đổi. Giờ đây, anh em có thể ứng dụng AI vào công việc và cuộc sống một cách hiệu quả, dễ dàng hơn bao giờ hết."
-Đăng ký NgayAnh em đang khởi nghiệp hay chuẩn bị khởi nghiệp nếu anh em không áp dụng tự động hóa tìm kiếm khách hàng thì gần như chắc chắn anh em sẽ "đứt gánh giữa đường", giờ thế mạnh để cạnh tranh của anh em so với mấy ông "lão làng" chỉ có thể là áp dụng tự động hóa để tiết kiệm chi phí, thời gian trong quá trình tìm kiếm khách hàng mà thôi.
-Vậy, tôi là ai?
-Tôi NHUẦN và là người sáng lập PYAN và Thương hiệu Anh Lập Trình.
-Phương pháp giảng dạy là "Cứ ứng dụng vào công việc đi, vướng thì gỡ," nhấn mạnh việc thực hành trước, sau đó giải quyết vấn đề khi gặp phải. Phương pháp này khuyến khích học viên bắt đầu ngay với các tác vụ thực tế, dù chưa hiểu rõ lý thuyết, vì qua quá trình làm việc, lý thuyết sẽ dần dần sáng tỏ, kệ mợ mọi thứ đi.
-Tôi giúp bạn tạo ra các chương trình phục vụ công việc của chính các bạn mà không cần biết lập trình thông qua các nền tảng nổi tiếng nhất hiện nay như airtable và make.com...
-Phải nhấn mạnh rằng:
-Tôi không phải là chuyên gia dạy làm giàu, mà là người chuyên về tự động hóa công việc với AI.
-Tôi bắt đầu khởi nghiệp vào năm 2020, khi còn là một nhân viên văn phòng bình thường tại một công ty xây dựng. Công việc lặp đi lặp lại khiến tôi chán nản, và mặc dù đã có tuổi, tôi vẫn chưa từng được sếp cân nhắc vào những vị trí cao hơn. Điều đó khiến tôi cảm thấy ngại ngùng, đặc biệt là khi làm việc chung với các đồng nghiệp trẻ hơn, năng động hơn.
-Tôi hiểu rằng mình không thể mãi như thế. Thật lòng mà nói, nếu nghỉ rồi quay lại, chắc cũng chẳng có công ty nào chịu nhận tôi hoặc sẽ chỉ trả mức lương ngang với sinh viên mới ra trường. Vậy nên tôi quyết định liều một phen khởi nghiệp với tinh thần không còn đường lùi.
-Những khó khăn trong giai đoạn đầu khởi nghiệp
-Ban đầu, tôi gặp vô vàn khó khăn. Những câu hỏi liên tục xuất hiện trong đầu:
-Tại sao tôi học yếu?
-Tại sao khi làm việc tôi lại thấy chuyên môn của mình quá kém?
-Vì sao mãi không thấy sự phát triển nào?
-Rồi tôi nhận ra nguyên nhân: Tôi không phù hợp với cách học truyền thống. Chính lối học tập cũ kỹ đó đã kìm hãm sự phát triển của tôi. Thay vì tiếp tục mắc kẹt, tôi bắt đầu bứt phá với cách học mới:
-"Cứ ứng dụng vào công việc, vướng thì gỡ"
-Bước ngoặt cuộc đời
-Cuộc đời tôi gần như thay đổi 180 độ khi tôi áp dụng cách học này vào công việc và phát triển kỹ năng. Nhờ đó, tôi tự tin hơn, hiểu rõ hơn về năng lực của mình, và từng bước xây dựng được sự nghiệp riêng.
-Trong khóa học này, tôi sẽ chia sẻ với anh em chính những kinh nghiệm đó. Mỗi bài giảng, mỗi video sẽ là những hướng dẫn chi tiết, thực tế, giúp bạn tự động hóa công việc và nâng cao hiệu quả giống như cách tôi đã làm và rèn luyện cho anh em cách học mới vô cùng hiệu quả và thực dụng này.
-Nếu anh em muốn tìm hiểu thêm về tôi trước khi tham gia khóa học, hãy ghé thăm kênh YouTube và fanpage của tôi. Hy vọng những gì tôi chia sẻ sẽ giúp bạn tìm được con đường phát triển của riêng mình!
-Đăng ký NgayP.S: Giọng của tôi hơi nặng (gốc Nghệ An), có thể sẽ khó nghe với một số anh em. Tuy nhiên, tôi luôn nỗ lực bù đắp điểm yếu này bằng cách hỗ trợ anh em tối đa trong các dự án tự động hóa công việc và hướng dẫn các kỹ năng tự học, giúp anh em tự tin "bơi" mà không phải phụ thuộc vào tôi hay bất kỳ ai.
-Anh em có thể tham khảo một số video tôi hướng dẫn tự động hóa công việc tại kênh Youtube Hoặc Fanpage:
-"Ban đầu tôi nghĩ tự động hóa là thứ gì đó phức tạp. Nhưng khi áp dụng theo cách 'cứ làm đi, sai thì sửa', tôi đã thiết lập thành công hệ thống tìm kiếm và chăm sóc khách hàng. Kết quả là doanh số tăng 30% chỉ sau một tháng."
-Anh Huy – Chủ cửa hàng online
-Cảm Nhận Của Học Viên Đã Từng Học
-"Cách học này giúp tôi vượt qua nỗi sợ 'không biết thì làm sao'. Cứ làm đến đâu gỡ đến đó, và tôi đã tự động hóa việc quảng bá trên Facebook. Bánh bán chạy hơn, khách đặt hàng đều đặn mỗi ngày."
-Chị Mai – Chủ tiệm bánh:
-"Nhờ phương pháp 'vướng thì gỡ', tôi đã tạo được hệ thống tự động gửi báo giá cho khách hàng. Giờ đây, tôi không còn phải ngồi check email cả ngày mà vẫn có khách liên hệ thường xuyên."
-Anh Phú – Freelancer
-"Tôi rất thích cách học này. Ban đầu gặp lỗi hoặc khó khăn, nhưng mỗi lần gỡ được một vấn đề là tôi hiểu hơn về hệ thống. Giờ đây, tôi không cần thức khuya để trả lời tin nhắn khách nữa vì hệ thống tự động đã làm thay."
-Chị Thảo – Bán hàng mỹ phẩm online:
-"Tôi từng nghĩ mình không thể tự động hóa được quy trình marketing vì không biết nhiều về công nghệ. Nhưng nhờ phương pháp 'vướng thì gỡ', tôi đã tự động hóa việc chăm sóc khách hàng. Giờ đây, khách đến đông hơn mà tôi không cần phải lo quảng cáo mỗi ngày."
-Anh Nam –Chủ Doanh nghiệp nhỏ
-"Tôi bắt đầu bán thực phẩm hữu cơ vì muốn khởi nghiệp từ sớm, nhưng thời gian ở công ty khiến tôi khó tập trung. Nhờ khóa học này, tôi đã học cách tự động hóa quy trình bán hàng và chăm sóc khách hàng, giúp công việc kinh doanh vận hành trơn tru mà không ảnh hưởng đến công việc chính. Giờ đây, tôi thấy con đường khởi nghiệp khả thi hơn bao giờ hết."
-Anh Minh – Kỹ sư xây dựng, kinh doanh thực phẩm hữu cơ:
-Đăng ký NgayĐến bây giờ mà anh em vẫn chưa áp dụng AI vào công việc hay cuộc sống, có khi anh em đang sống nhầm thời đại
-Đừng trì hoãn ! Tham gia "Chồng Giỏi AI - Tự Động Hóa Video, Hình Ảnh Với AI " ngay hôm nay để tiết kiệm thời gian, tăng năng suất, và chinh phục công nghệ mà không cần viết một dòng code nào! Nắm bắt cơ hội để làm việc thông minh hơn, phát triển nhanh hơn và dẫn đầu cuộc chơi và đặc biệt là x10,x15 khách hàng hiện tại.
-Học phí khuyến mãi chỉ hôm nay : 1.520.000 VNĐ
-Các thầy ngoài kia họ dạy chung chung rồi để các bạn tự phát triển, còn tôi là dân kỹ thuật, tôi sẽ hướng dẫn anh em chương trình theo ý tưởng anh em muốn viết luôn (chương trình càng mất nhiều thời gian, càng thử thách tôi càng thích, càng làm càng khoái)
-Những câu hỏi thường gặp
-Tôi có cần phải trả phí cho bên thứ ba nào không?
-Điều này sẽ phụ thuộc vào số lượng tự động hóa bạn tạo. Bản thân Make.com miễn phí cho tối đa 1.000 hoạt động mỗi tháng. Tất cả các mô-đun có trong các mẫu đều có bản dùng thử miễn phí. Bạn có thể bắt đầu hoàn toàn miễn phí và có thể chọn trả phí đăng ký nhỏ nếu bạn nhận được nhiều lợi ích.
-Tôi có thể truy cập nội dung khóa học bằng cách nào?
-Chúng tôi sẽ gửi email cập nhật khi có nội dung mới.
-Tôi mới làm quen với tự động hóa, liệu giải pháp này có phù hợp với tôi không?
-Có, chắc chắn rồi. Không cần code và quá trình thiết lập tự động hóa dựa nhiều hơn vào logic và sự sáng tạo.
-Tôi có thể bán lại các template này không?
-Bạn không được phép bán lại các mẫu dưới dạng mẫu, nhưng bạn được phép sử dụng chúng cho chính mình hoặc triển khai chúng cho các doanh nghiệp khác. Bạn có thể tính phí cho bên thứ ba để triển khai các mẫu này cho họ.
-Tự Động Hóa Cuộc Sống Với AI
-Liên hệ
-contact@anhlaptrinh.vn
-0914972102
-Cứ ứng dụng vào công việc đi,
-vướng thì gỡ
-Lầu 5: Toà Nhà ST. MORITZ 1014 Phạm Văn Đồng, P, Thủ Đức, Thành phố Hồ Chí Minh
+🔹 Tên sản phẩm: Thiên Vương Bổ Tâm Đan
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Bổ tâm
+•	Dưỡng huyết
+•	An thần
+🔹 Chỉ định:
+•	Các bệnh về tim mạch như tim đập nhanh, đánh trống ngực, đau thắt ngực
+•	Các chứng đau đầu, hay quên, mất ngủ, ngủ hay mê sảng
+🔹 Thành phần (trong 4g hoàn cứng):
+•	Đan sâm 0,1g
+•	Huyền sâm 0,1g
+•	Đương quy 0,2g
+•	Viễn chí 0,1g
+•	Toan táo nhân 0,2g
+•	Đảng sâm 0,1g
+•	Bá tử nhân 0,2g
+•	Bạch linh 0,1g
+•	Cát cánh 0,1g
+•	Ngũ vị tử 0,2g
+•	Cam thảo 0,1g
+•	Mạch môn 0,2g
+•	Thiên môn đông 0,2g
+•	Địa hoàng 0,8g
+•	Chu sa 0,04g
+🔹 Cách dùng - Liều dùng:
+•	Người lớn: 4 gam/lần (khoảng 40 viên hoàn cứng), ngày 2-3 lần, uống lúc đói
+•	Trẻ em trên 5 tuổi: 2 gam/lần (khoảng 20 viên hoàn cứng), ngày 2-3 lần, uống lúc đói
+🔹 Tên sản phẩm: Dưỡng Cốt Khải Hà
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Dưỡng âm, tiềm dương
+•	Cường kiện gân cốt
+•	Bổ khí huyết
+🔹 Chỉ định:
+•	Nhức mỏi trong ống xương, đau lưng, mỏi gối
+•	Đau nhức xương khớp, cơ gân mềm yếu, đi lại khó khăn
+•	Phòng và điều trị loãng xương, xốp xương (người già, phụ nữ mãn kinh)
+•	Hỗ trợ điều trị gãy xương sau bó bột
+•	Trẻ em còi xương, chậm lớn
+🔹 Thành phần (trong mỗi gói 5g viên hoàn cứng):
+•	Cao xương hỗn hợp (tương đương xương động vật 7,5g): 0,75g
+•	Hoàng bá: 2,4g
+•	Tri mẫu: 0,3g
+•	Trần bì: 0,6g
+•	Bạch thược: 0,6g
+•	Can khương: 0,15g
+•	Thục địa: 0,6g
+🔹 Cách dùng - Liều dùng:
+•	Uống 1 gói/lần × 2–3 lần/ngày
+🔹 Tên sản phẩm: Kim Tiền Thảo Khải Hà
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Thanh thấp nhiệt
+•	Lợi tiểu
+🔹 Chỉ định:
+•	Nhiệt lâm
+•	Thạch lâm
+•	Sỏi mật, sỏi thận
+•	Tiểu buốt
+•	Phù thũng
+•	Hoàng đản
+🔹 Thành phần:
+•	Cao khô Kim tiền thảo (tương đương với Kim tiền thảo 3000 mg): 260,5 mg
+🔹 Cách dùng - Liều dùng:
+•	Mỗi lần uống 3 viên
+•	Ngày uống 3 lần
+•	Uống với nhiều nước, sau bữa ăn
+🔹 Tên sản phẩm: Kahagan New
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Nhuận gan, lợi mật, bảo vệ gan, kích thích ăn ngon
+•	Hạ cholesterol, giảm lipid máu
+•	Giảm đường huyết ở bệnh nhân tiểu đường
+•	Thanh nhiệt, nhuận tràng, lợi tiểu
+🔹 Chỉ định:
+•	Người suy giảm chức năng gan (viêm gan, nhiễm độc gan, uống nhiều rượu bia, dùng thuốc dài ngày)
+•	Người nóng trong, tiểu ít, táo bón, mụn nhọt, phát ban
+•	Người có mỡ máu cao
+🔹 Thành phần (trong mỗi viên):
+•	Cao đặc Actiso (tương đương Actiso 900 mg): 100 mg
+•	Cao đặc Rau đắng đất (tương đương 600 mg): 75 mg
+•	Cao đặc Bìm bìm (tương đương 75 mg): 7,5 mg
+🔹 Cách dùng - Liều dùng:
+•	Người lớn: Uống 2–4 viên/lần × 3 lần/ngày
+•	Trẻ em: Uống 1–2 viên/lần × 3 lần/ngày
+🔹 Tên sản phẩm: Bạch Y Phong Tê Thấp Khải Hà
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Ích can thận
+•	Bổ khí huyết
+•	Khu phong tán hàn, trừ thấp
+•	Thông kinh hoạt lạc
+🔹 Chỉ định:
+•	Viêm đa khớp dạng thấp
+•	Đau nhức xương, chân tay co duỗi khó
+•	Viêm đau dây thần kinh (tọa, liên sườn…)
+•	Đau lưng mỏi gối, nhức mỏi xương khớp, tê buồn chân tay, sưng khớp
+🔹 Thành phần (trong mỗi 5g viên hoàn cứng – tương đương 3g cao khô dược liệu):
+•	Độc hoạt: 3,0g
+•	Quế nhục: 2,0g
+•	Phòng phong, đương quy, tế tân, xuyên khung, tần giao, bạch thược, tang ký sinh, địa hoàng, đỗ trọng, nhân sâm, ngưu tất, bạch linh, cam thảo: mỗi vị 2,0g
+🔹 Cách dùng - Liều dùng:
+•	Uống 5g (khoảng 29–34 viên hoàn cứng) mỗi lần
+•	Ngày uống 2–3 lần
+🔹 Tên sản phẩm: Viên Sáng Mắt Khải Hà
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Tư dưỡng can thận
+•	Minh mục (làm sáng mắt)
+🔹 Chỉ định:
+•	Mắt có màng
+•	Chảy nước mắt
+•	Đồng tử dãn, nhìn không rõ
+(Phong tà kết hợp can thận âm hư và nhiệt khí công lên mắt)
+🔹 Thành phần (trong mỗi viên):
+•	Cao khô hỗn hợp (275,0 mg) tương đương:
+o	Thục địa 500 mg
+o	Sơn thù 250 mg
+o	Mẫu đơn bì 187,5 mg
+o	Hoài sơn 250 mg
+o	Phục linh 187,5 mg
+o	Trạch tả 187,5 mg
+o	Câu kỷ tử 187,5 mg
+o	Cúc hoa vàng 187,5 mg
+o	Đương quy 187,5 mg
+o	Bạch thược 187,5 mg
+o	Bạch tật lê 187,5 mg
+o	Thạch quyết minh 250 mg
+🔹 Cách dùng - Liều dùng:
+•	Uống 2–3 viên/lần
+•	Ngày uống 2 lần
+🔹 Tên sản phẩm: Đại Bổ Khí Huyết
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Bổ khí, dưỡng huyết
+🔹 Chỉ định:
+•	Người mệt mỏi, ăn ngủ kém, hơi thở yếu, sắc mặt trắng xanh
+•	Người thiếu máu, chóng mặt hoa mắt, tim đập hồi hộp
+🔹 Thành phần (mỗi viên nang cứng):
+•	Cao khô hỗn hợp 375 mg, tương đương với:
+o	Đương quy: 500 mg
+o	Xuyên khung: 500 mg
+o	Thục địa: 500 mg
+o	Bạch thược: 500 mg
+o	Đảng sâm: 500 mg
+o	Bạch linh: 500 mg
+o	Bạch truật: 500 mg
+o	Cam thảo: 250 mg
+🔹 Cách dùng - Liều dùng:
+•	Uống 1 viên/lần × 2 lần/ngày
+🔹 Tên sản phẩm: Diệp Hạ Châu KH
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Tiêu độc
+•	Hoạt huyết
+•	Lợi mật
+•	Thanh can
+•	Lợi thủy
+🔹 Chỉ định:
+•	Viêm gan hoàng đản
+•	Viêm họng, mụn nhọt
+•	Viêm da thần kinh, chàm
+•	Viêm thận, phù thũng
+•	Sỏi tiết niệu
+•	Viêm ruột, tiêu chảy
+🔹 Thành phần:
+•	Cao khô Diệp Hạ Châu (tương đương 3000 mg dược liệu): 300 mg
+🔹 Cách dùng - Liều dùng:
+•	Người lớn: 2 viên/lần × 2–3 lần/ngày, sau bữa ăn
+•	Trẻ em: 1 viên/lần × 2 lần/ngày, sau bữa ăn
+🔹 Tên sản phẩm: An Thần Ích Trí
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Dưỡng huyết an thần
+•	Thanh nhiệt
+•	Trừ phiền
+🔹 Chỉ định:
+•	Điều trị mất ngủ, ngủ không ngon giấc
+•	Điều trị suy nhược thần kinh
+•	Giảm căng thẳng, lo âu, hoa mắt, chóng mặt
+🔹 Thành phần (mỗi viên nén bao phim chứa 350 mg cao khô hỗn hợp):
+•	Toan táo nhân: 960 mg
+•	Tri mẫu: 640 mg
+•	Phục linh: 960 mg
+•	Xuyên khung: 640 mg
+•	Cam thảo: 320 mg
+🔹 Cách dùng - Liều dùng:
+•	Uống 2 viên/lần
+•	Ngày uống 3 lần
+🔹 Tên sản phẩm: Thập Toàn Đại Bổ
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Bổ khí
+•	Kiện tỳ
+•	Bổ huyết
+🔹 Chỉ định:
+•	Bồi bổ khí huyết
+•	Cơ thể suy nhược, thiếu máu, kém ăn
+•	Phụ nữ mới sinh
+•	Người có sắc mặt xanh xao, hơi thở ngắn, đánh trống ngực, chóng mặt, dễ ra mồ hôi, sức yếu, tay chân lạnh, kinh nguyệt ra nhiều
+🔹 Thành phần (mỗi viên chứa 480 mg cao khô, chiết từ):
+•	Đảng sâm: 660 mg
+•	Bạch truật: 440 mg
+•	Bạch linh: 352 mg
+•	Cam thảo: 352 mg
+•	Đương quy: 440 mg
+•	Xuyên khung: 352 mg
+•	Bạch thược: 440 mg
+•	Thục địa: 660 mg
+•	Hoàng kỳ: 660 mg
+•	Quế nhục: 440 mg
+🔹 Cách dùng - Liều dùng:
+•	Uống 1 viên/lần
+•	Ngày uống 2–3 lần
+🔹 Tên sản phẩm: Bổ Trung Ích Khí
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Bổ trung ích khí
+•	Bồi bổ trung tiêu
+•	Tăng khí lực
+•	Thăng dương, cử hãm
+🔹 Chỉ định:
+•	Tỳ vị suy nhược
+•	Trung khí hạ hãm
+•	Mệt mỏi, yếu sức, kém ăn
+•	Bụng trướng, tiêu chảy lâu ngày
+•	Sa trực tràng, sa dạ con
+🔹 Thành phần:
+•	Cao khô hỗn hợp 190 mg (tương đương với):
+o	Hoàng kỳ 733 mg
+o	Cam thảo 327 mg
+o	Bạch truật, Trần bì, Thăng ma, Sài hồ: mỗi vị 250 mg
+o	Đương quy, Nhân sâm: mỗi vị 195 mg
+o	Đại táo 167 mg
+o	Gừng tươi 83 mg
+•	Bột mịn:
+o	Hoàng kỳ 100 mg
+o	Cam thảo 90 mg
+o	Đương quy 55 mg
+o	Nhân sâm 55 mg
+🔹 Cách dùng - Liều dùng:
+•	Mỗi lần uống 2 viên
+•	Ngày uống 3 lần, trước bữa ăn 2 giờ
+🔹 Tên sản phẩm: Đại Tràng Hoàn K/H
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Thông trường
+•	Kiện tỳ
+•	Ích khí
+•	Thanh nhiệt giải độc
+🔹 Chỉ định:
+•	Viêm đại tràng do thấp nhiệt
+•	Triệu chứng: đau bụng, đầy hơi, ăn uống chậm tiêu, mót rặn, đi ngoài nhiều lần
+🔹 Thành phần (mỗi gói 4g):
+•	Hoàng bá: 0,6g
+•	Hoàng đằng: 0,6g
+•	Bạch truật: 0,48g
+•	Chỉ thực: 0,48g
+•	Hậu phác: 0,4g
+•	Mộc hương: 0,4g
+•	Đại hoàng: 0,32g
+•	Trạch tả: 0,32g
+🔹 Cách dùng - Liều dùng:
+•	Mỗi lần uống 2 gói (4g/gói)
+•	Ngày uống 3 lần, sau khi ăn 1–2 giờ
+🔹 Tên sản phẩm: Kahagan
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Thanh nhiệt
+•	Nhuận tràng
+🔹 Chỉ định:
+•	Người suy giảm chức năng gan: viêm gan, nhiễm độc gan, uống nhiều rượu bia, dùng thuốc dài ngày
+•	Người bị mụn nhọt, lở ngứa
+•	Bí tiểu tiện, khó tiêu, táo bón
+🔹 Thành phần (trong mỗi viên):
+•	Cao đặc Actiso: 0,1g
+•	Cao đặc Rau đắng đất: 0,075g
+•	Bìm bìm biếc: 0,075g
+🔹 Cách dùng - Liều dùng:
+•	Người lớn: 2–4 viên/lần × 3 lần/ngày
+•	Trẻ em: 1–2 viên/lần × 3 lần/ngày
+🔹 Tên sản phẩm: Phong Thấp Khải Hà
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Bổ can thận
+•	Trừ phong thấp
+🔹 Chỉ định:
+•	Đau thần kinh ngoại biên, thần kinh tọa
+•	Viêm khớp, đau nhức xương khớp
+•	Đau lưng, mỏi gối
+🔹 Thành phần (trong 1 lọ 30g hoàn cứng):
+•	Độc hoạt: 2,4g
+•	Phòng phong: 1,8g
+•	Tang ký sinh: 3,0g
+•	Tế tân: 1,2g
+•	Tần giao: 1,2g
+•	Ngưu tất: 1,8g
+•	Đỗ trọng: 1,8g
+•	Quế chi: 1,2g
+•	Xuyên khung: 0,9g
+•	Sinh địa: 1,8g
+•	Bạch thược: 1,8g
+•	Đương quy: 1,2g
+•	Đảng sâm: 1,8g
+•	Bạch linh: 1,8g
+•	Cam thảo: 0,9g
+🔹 Cách dùng - Liều dùng:
+•	Người lớn: 15g/lần (tương đương 3 gói), ngày uống 3 lần
+•	Trẻ em >5 tuổi: Uống 1/2 liều người lớn
+🔹 Tên sản phẩm: Hoạt Huyết Dưỡng Não
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Giảm suy giảm trí nhớ
+•	Cải thiện tuần hoàn não
+•	Giảm đau đầu, mất ngủ, chóng mặt
+•	Hỗ trợ điều trị hội chứng rối loạn tiền đình
+•	Giảm triệu chứng Parkinson
+🔹 Chỉ định:
+•	Suy tuần hoàn não: đau đầu, mất ngủ, chóng mặt, mất thăng bằng
+•	Suy nhược thần kinh, giảm trí nhớ
+•	Di chứng sau tổn thương não
+•	Người làm việc trí óc căng thẳng
+•	Run giật ở bệnh nhân Parkinson
+🔹 Thành phần:
+•	Cao đặc rễ đinh lăng (tương ứng với 910 mg dược liệu): 105 mg
+•	Cao lá bạch quả (tương đương 100 mg lá bạch quả): 10 mg
+🔹 Cách dùng - Liều dùng:
+•	Người lớn và trẻ >12 tuổi: uống 2–3 viên/lần
+•	Ngày uống 3 lần
+🔹 Tên sản phẩm: Hoàn Sáng Mắt K/H
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Bổ thận âm
+•	Dưỡng can
+•	Sáng mắt
+🔹 Chỉ định:
+•	Khô mắt
+•	Sợ ánh sáng
+•	Nhức mắt
+•	Nhìn nhòa mờ
+•	Chảy nước mắt khi ra gió
+🔹 Thành phần (trong mỗi gói 4g hoàn cứng):
+•	Thục địa: 0,64g
+•	Mẫu đơn bì: 0,24g
+•	Hoài sơn: 0,32g
+•	Bạch linh: 0,24g
+•	Trạch tả: 0,24g
+•	Câu kỷ tử: 0,24g
+•	Cúc hoa: 0,24g
+•	Đương quy: 0,24g
+•	Bạch thược: 0,24g
+•	Bạch tật lê: 0,24g
+•	Thạch quyết minh: 0,32g
+•	Sơn thù: 0,32g
+🔹 Cách dùng - Liều dùng:
+•	Người lớn: Uống 4–8g/lần (45–90 viên), ngày 2–3 lần
+•	Trẻ em: Uống 2–4g/lần (22–45 viên), ngày 2–3 lần
+🔹 Tên sản phẩm: Bảo Mạch Hạ Áp
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Bình can
+•	Tức phong
+•	Thanh nhiệt
+🔹 Chỉ định:
+•	Người cao huyết áp, đau đầu, mất ngủ, hoa mắt, chóng mặt do can phong nội động
+•	Tai biến mạch máu não do tăng huyết áp (liệt nửa người do tai biến)
+🔹 Thành phần (mỗi viên nang cứng):
+•	Thiên ma: 0,5g
+•	Câu đằng: 0,6g
+•	Dạ giao đằng: 0,5g
+•	Thạch quyết minh: 0,3g
+•	Sơn chi: 0,3g
+•	Hoàng cầm: 0,3g
+•	Ngưu tất, Đỗ trọng, Ích mẫu, Tang ký sinh, Bạch phục linh: mỗi vị 0,3g
+•	Hòe hoa: 0,6g
+🔹 Cách dùng - Liều dùng:
+•	Uống 2–3 viên/lần
+•	Ngày uống 2–3 lần
+🔹 Tên sản phẩm: Kim Tiền Thảo
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Thanh thấp nhiệt
+•	Lợi tiểu
+•	Bài sỏi
+🔹 Chỉ định:
+•	Phòng và điều trị sỏi đường tiết niệu (sỏi thận, sỏi niệu quản, sỏi bàng quang)
+•	Tiểu buốt, tiểu dắt, tiểu ít, tiểu có nhiều cặn
+•	Hoàng đản, nước tiểu đỏ, phù
+🔹 Thành phần:
+•	Cao khô Kim tiền thảo (tương đương 2400 mg dược liệu): 120 mg
+•	Cao khô Râu ngô (tương đương 972,2 mg): 35 mg
+🔹 Cách dùng - Liều dùng:
+•	Ngày uống 3 lần
+•	Mỗi lần 5 viên
+•	Uống với nhiều nước để tăng hiệu quả
+🔹 Tên sản phẩm: Ích Mẫu
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Hoạt huyết
+•	Điều kinh
+🔹 Chỉ định:
+•	Kinh nguyệt không đều
+•	Khí hư, bạch đới
+•	Rong huyết, băng huyết do huyết ứ
+•	Đau bụng khi hành kinh
+•	Hỗ trợ co hồi tử cung sau sinh
+🔹 Thành phần (mỗi viên):
+•	Cao khô Ích mẫu (tương đương 2,4g dược liệu): 120 mg
+•	Cao khô Hương phụ (tương đương 1,9g): 120 mg
+•	Cao khô Ngải cứu (tương đương 1,8g): 120 mg
+🔹 Cách dùng - Liều dùng:
+•	Ngày uống 3 lần
+•	Mỗi lần 2 viên (trường hợp nặng: 4 viên/lần)
+•	Dùng liên tục trong 20–30 ngày
+🔹 Tên sản phẩm: Bổ Thận Âm
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Bổ thận âm
+🔹 Chỉ định:
+•	Tinh huyết suy kém
+•	Hay mệt mỏi, ù tai, hoa mắt, váng đầu
+•	Người nóng, khát nước
+•	Đổ mồ hôi trộm, táo bón, nước tiểu vàng
+•	Di tinh, mộng tinh
+🔹 Thành phần (trong mỗi gói 4g hoàn cứng):
+•	Thục địa: 0,6g
+•	Tỳ giải: 0,2g
+•	Hoài sơn: 0,236g
+•	Táo nhục: 0,36g
+•	Thạch hộc: 0,24g
+•	Khiếm thực nam: 0,28g
+🔹 Cách dùng - Liều dùng:
+•	Ngày uống 2 lần (sáng và tối)
+•	Mỗi lần 4 – 8g (tương đương 45 – 90 viên hoàn cứng)
+•	Uống sau khi ăn
+🔹 Tên sản phẩm: Hoàn Thập Toàn Đại Bổ
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Ôn bổ khí huyết
+🔹 Chỉ định:
+•	Khí huyết đều hư
+•	Sắc mặt trắng xanh
+•	Hơi thở ngắn, đánh trống ngực
+•	Chóng mặt, dễ ra mồ hôi
+•	Sức yếu, tay chân không ấm, mệt mỏi
+🔹 Thành phần (trong mỗi gói 4g hoàn cứng):
+•	Bạch thược: 0,32g
+•	Bạch linh: 0,32g
+•	Bạch truật: 0,32g
+•	Quế: 0,08g
+•	Cam thảo: 0,16g
+•	Thục địa: 0,48g
+•	Đảng sâm: 0,32g
+•	Xuyên khung: 0,16g
+•	Đương quy: 0,48g
+•	Hoàng kỳ: 0,32g
+🔹 Cách dùng - Liều dùng:
+•	Ngày uống 2 lần
+•	Mỗi lần uống 1–2 gói
+🔹 Tên sản phẩm: Cao Ích Mẫu
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Hoạt huyết
+•	Điều kinh cho phụ nữ
+🔹 Chỉ định:
+•	Kinh nguyệt không đều
+•	Khí hư, bạch đới
+•	Đau bụng khi hành kinh
+•	Hỗ trợ tử cung phục hồi sau sinh
+🔹 Thành phần (trong mỗi lọ 125 ml):
+•	Ích mẫu: 100g
+•	Hương phụ: 31,25g
+•	Ngải cứu: 25mg
+🔹 Cách dùng - Liều dùng:
+•	Ngày uống 2 lần (sáng và tối)
+•	Mỗi lần 25 ml
+•	Trường hợp bệnh nặng có thể dùng liều gấp đôi
+🔹 Tên sản phẩm: Tiêu Độc K/H
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Thanh nhiệt, mát gan
+•	Giải độc, tiêu viêm, tán kết
+🔹 Chỉ định:
+•	Ung nhọt, ban sởi, mày đay
+•	Lở ngứa, dị ứng
+•	Cảm mạo phong nhiệt, ôn bệnh phát nhiệt
+🔹 Thành phần (trong mỗi lọ 100 ml):
+•	Kim ngân hoa: 19,7g
+•	Bồ công anh: 19,7g
+•	Ké đầu ngựa: 12,3g
+•	Hạ khô thảo: 19,7g
+•	Thổ phục linh: 12,3g
+🔹 Cách dùng - Liều dùng:
+•	Người lớn: 30 ml/lần × 3 lần/ngày
+•	Trẻ em: 10 ml/lần × 3 lần/ngày
+•	Uống trước bữa ăn 1 giờ
+🔹 Tên sản phẩm: Bổ Tỳ K/H
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Kích thích tiêu hóa
+•	Giúp ăn ngon miệng
+🔹 Chỉ định:
+•	Người chán ăn
+•	Suy dinh dưỡng
+•	Rối loạn tiêu hóa
+•	Phân sống, tiêu chảy kéo dài
+🔹 Thành phần (trong mỗi lọ 100 ml):
+•	Bạch linh: 5g
+•	Liên nhục: 5g
+•	Sơn tra: 5g
+•	Bạch truật: 7,5g
+•	Mạch nha: 5g
+•	Cam thảo, Trần bì, Sa nhân, Ý dĩ: mỗi vị 2,5g
+•	Đảng sâm, Hoài sơn, Thần khúc: mỗi vị 5g
+🔹 Cách dùng - Liều dùng:
+•	Ngày uống 2 lần, lắc kỹ trước khi dùng
+o	Trẻ 2,5–5 tuổi: 5 ml/lần
+o	Trẻ 6–15 tuổi: 10 ml/lần
+o	Người lớn (từ 15 tuổi): 20 ml/lần
+•	Dùng liên tục 4–6 tuần
+🔹 Tên sản phẩm: Thông táo Khải Hà
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Hành khí, nhuận tràng, tiêu tích.
+🔹 Chỉ định:
+•	Dùng trong các trường hợp: 
+o	táo bón cấp và mạn tính. 
+•	Dùng cho người đại tiện khó khăn do: 
+o	Trương lực cơ yếu, nhu động ruột kém, người già, bệnh nhân sau phẫu thuật, sau cắt trĩ hoặc uống nhiều kháng sinh.
+🔹 Thành phần:
+•	Mỗi lọ 100 ml chứa các chất chiết xuất từ các dược liệu:
+o	 Đại hoàng 8gr
+o	 Hậu phác 4gr
+o	 Chỉ xác 8gr
+o	 Cam thảo 4gr
+o	 Thảo quyết minh 8gr
+o	 Mật ong 20gr
+•	Thành phần tá dược: vừa đủ 100ml
+🔹 Cách dùng - Liều dùng:
+•	Người lớn: Ngày uống 3 lần, mỗi lần 30 ml.
+•	Trẻ em: Ngày uống 3 lần, mỗi lần 15 ml.
+🔹 Tên sản phẩm: Siro ho bổ phổi
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	Nhuận phế, giảm ho.
+🔹 Chỉ định:
+•	Trị các chứng ho gió, ho lâu ngày đờm đặc, rát cổ, ráo phổi
+🔹 Thành phần:
+•	Mỗi lọ 100 ml chứa các chất chiết xuất từ các dược liệu:
+o	Mạch môn 5g
+o	Bách bộ 5g
+o	Cam thảo 1.1g
+o	Bọ mắm 12g
+o	Cát cánh 1.1g
+o	Trần bì 1.7g
+o	Tinh dầu bạc hà 0.02ml
+o	Menthol 0.02g
+•	Thành phần tá dược: vừa đủ 100ml
+🔹 Cách dùng - Liều dùng:
+•	Người lớn: ngày uống 50ml, chia làm 2 đến 3 lần
+•	Trẻ em trên 30 tháng tuổi : ngày uống 30ml, chia làm 2 đến 3 lần.
+🔹 Tên sản phẩm: Hoạt huyết thông mạch K/H
+🔹 Hình ảnh sản phẩm:
+ 
+🔹 Công dụng / Tác dụng:
+•	là thuốc có tác dụng giúp hoạt huyết, bổ huyết.
+•	Ngoài ra Hoạt huyết thông mạch K/H được dùng cho người suy giảm trí nhớ, đau đầu, hoa mắt, chóng mặt, thiếu máu, mệt mỏi, mất thăng bằng.
+🔹 Chỉ định:
+•	Công dụng: Hoạt huyết, bổ huyết.
+•	Chỉ định: Dùng cho người suy giảm trí nhớ, đau đầu, hoa mắt, chóng mặt, thiếu máu, mệt mỏi, mất thăng bằng.
+🔹 Chống chỉ định:
+•	Phụ nữ có thai.
+•	Người tiểu đường.
+•	Người đang chảy máu.
+•	Người mẫn cảm với bất cứ thành phần nào của thuốc.
+🔹 Thành phần:
+•	Hồng hoa (Flos Carthami tinctorii 12 g.
+•	Hà thủ ô đỏ (Radix Fallopiae multiflorae 16 g.
+•	Bạch thược (Radix Paeoniae lactiflorae) 24 g.
+•	Đương quy (Radix Angelicae sinensis)  24 g.
+•	Xuyên khung (Rhizoma Ligustici wallichii) 24 g.
+•	Ích mẫu (Herba Leonuri japonici) 16 g.
+•	Thục địa (Radix Rehmanniae glutinosae praeparata) 32 g.
+🔹 Dạng bào chế:
+•	Cao lỏng
+🔹 Cách dùng - Liều dùng:
+Nên nhớ rằng có rất nhiều yếu tố để quy định về liều lượng dùng thuốc. Thông thường sẽ phụ thuộc vào tình trạng, dạng thuốc và đối tượng sử dụng. Hãy luôn tuân thủ liều dùng được quy định trên tờ hướng dẫn sử dụng và theo chỉ dẫn của bác sĩ, dược sĩ.
+
+
+
+
